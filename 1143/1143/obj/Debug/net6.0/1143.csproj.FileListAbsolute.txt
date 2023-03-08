@@ -1,0 +1,15 @@
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.csproj.AssemblyReference.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.AssemblyInfoInputs.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.AssemblyInfo.cs
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.csproj.CoreCompileInputs.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\bin\Debug\net6.0\1143.exe
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\bin\Debug\net6.0\1143.deps.json
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\bin\Debug\net6.0\1143.runtimeconfig.json
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\bin\Debug\net6.0\1143.dll
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\bin\Debug\net6.0\1143.pdb
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.dll
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\refint\1143.dll
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.pdb
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\1143.genruntimeconfig.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1143\1143\obj\Debug\net6.0\ref\1143.dll

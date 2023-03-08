@@ -1,0 +1,15 @@
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\bin\Debug\net6.0\1099.exe
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\bin\Debug\net6.0\1099.deps.json
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\bin\Debug\net6.0\1099.runtimeconfig.json
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\bin\Debug\net6.0\1099.dll
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\bin\Debug\net6.0\1099.pdb
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.csproj.AssemblyReference.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.AssemblyInfoInputs.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.AssemblyInfo.cs
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.csproj.CoreCompileInputs.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.dll
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\refint\1099.dll
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.pdb
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\1099.genruntimeconfig.cache
+C:\Users\Chaves\source\repos\beecrowd exercicios C#\1099\1099\obj\Debug\net6.0\ref\1099.dll
